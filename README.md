@@ -52,7 +52,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [https://www.youtube.com/watch?v=B2WL6KkqhLQ] (Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component)
+- [Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component] (https://www.youtube.com/watch?v=B2WL6KkqhLQ)
 
 ## Author
 
