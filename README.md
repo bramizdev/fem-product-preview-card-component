@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bramizdev/fem-product-preview-card-component)
+- Solution URL: [https://github.com/bramizdev/fem-product-preview-card-component](https://github.com/bramizdev/fem-product-preview-card-component)
 - Live Site URL: [https://bramizdev.github.io/fem-product-preview-card-component/](https://bramizdev.github.io/fem-product-preview-card-component/)
 
 ## My process
@@ -52,7 +52,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [https://www.youtube.com/watch?v=B2WL6KkqhLQ](Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component)
+- [https://www.youtube.com/watch?v=B2WL6KkqhLQ] (Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component)
 
 ## Author
 
