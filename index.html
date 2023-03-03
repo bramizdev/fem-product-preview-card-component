@@ -28,6 +28,7 @@
   </head>
   <body>
     <main>
+      <h1 class="visually-hidden">Product preview card component</h1>
       <article class="product">
         <picture class="product__img">
           <source
@@ -39,17 +40,16 @@
             alt="Gabrielle Essence Eau De Parfum perfume bottle laying flat on a table with green leaves above and below"
             height="480"
             width="686"
-            loading="lazy"
           />
         </picture>
-        <section class="product__content">
+        <div class="product__content">
           <p class="product__category">Perfume</p>
-          <h1 class="product__title">Gabrielle Essence Eau De Parfum</h1>
+          <h2 class="product__title">Gabrielle Essence Eau De Parfum</h2>
           <p>
             A floral, solar and voluptuous interpretation composed by Olivier
             Polge, Perfumer-Creator for the House of CHANEL.
           </p>
-          <section class="flex-group">
+          <div class="flex-group">
             <p class="product__price">
               <span class="visually-hidden">Current price:</span> $149.99
             </p>
@@ -57,7 +57,7 @@
               <span class="visually-hidden">Original price:</span>
               <s>$169.99</s>
             </p>
-          </section>
+          </div>
           <button data-icon="shopping-cart" class="btn">
             <svg width="15" height="16" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -67,7 +67,7 @@
             </svg>
             Add to Cart
           </button>
-        </section>
+        </div>
       </article>
     </main>
     <footer class="footer">
